@@ -2,7 +2,7 @@
 
 Prototype of a Ball & Beam Positioning Control using Arduino.
 
-*I do this project in the college so It's not really refined, but works*
+*I did this project in college, the code isn't polished, but it works.*
 
 ---
 ## Tips
