@@ -47,10 +47,10 @@ void printmonitor(){ //? plot the graph in the monitor
 
 //! Setup
 void setup() {
-      Serial.begin(9600);
-      myServo.attach(servoPin); //? set the servo pin
-      myPID.SetMode(AUTOMATIC); //? set PID to automatic
-      myPID.SetOutputLimits(-90,90); //? set PID limit between -90 and 90
+  Serial.begin(9600);
+  myServo.attach(servoPin); //? set the servo pin
+  myPID.SetMode(AUTOMATIC); //? set PID to automatic
+  myPID.SetOutputLimits(-90,90); //? set PID limit between -90 and 90
 }
 
 //! Loop
