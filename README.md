@@ -21,14 +21,27 @@ Prototype of a Ball & Beam Positioning Control using Arduino.
 
 ---
 
-## Project Parts Images
+## SCHEMATIC OF THE PROJECT
 
 ---
-### LOGIC
+
+<div id="SCHEMATIC-Image" align="left">
+    <img height="200" width="500" src="https://cdn.discordapp.com/attachments/936646713345720400/938130199806099486/Screenshot.png">
+</div>
+
+---
+
+## LOGIC
+
+---
 
 <div id="PIC-Image" align="left">
     <img height="200" width="500" src="https://4.bp.blogspot.com/-N7wb2gNTVGc/U7S5LnSPonI/AAAAAAAAAC4/r9ctCv8C2L0/s1600/control+loop.png">
 </div>
+
+---
+
+## Project Parts Images
 
 ---
 
@@ -47,10 +60,3 @@ Prototype of a Ball & Beam Positioning Control using Arduino.
 </div>
 
 ---
-
-## SCHEMATIC OF THE PROJECT
----
-
-<div id="SCHEMATIC-Image" align="left">
-    <img height="200" width="500" src="https://cdn.discordapp.com/attachments/936646713345720400/938130199806099486/Screenshot.png">
-</div>
